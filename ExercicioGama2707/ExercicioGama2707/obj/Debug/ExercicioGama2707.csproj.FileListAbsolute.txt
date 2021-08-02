@@ -1,0 +1,7 @@
+C:\Users\dioge\source\repos\ExercicioGama2707\ExercicioGama2707\obj\Debug\ExercicioGama2707.csproj.AssemblyReference.cache
+C:\Users\dioge\source\repos\ExercicioGama2707\ExercicioGama2707\obj\Debug\ExercicioGama2707.csproj.CoreCompileInputs.cache
+C:\Users\dioge\source\repos\ExercicioGama2707\ExercicioGama2707\bin\Debug\ExercicioGama2707.exe.config
+C:\Users\dioge\source\repos\ExercicioGama2707\ExercicioGama2707\bin\Debug\ExercicioGama2707.exe
+C:\Users\dioge\source\repos\ExercicioGama2707\ExercicioGama2707\bin\Debug\ExercicioGama2707.pdb
+C:\Users\dioge\source\repos\ExercicioGama2707\ExercicioGama2707\obj\Debug\ExercicioGama2707.exe
+C:\Users\dioge\source\repos\ExercicioGama2707\ExercicioGama2707\obj\Debug\ExercicioGama2707.pdb

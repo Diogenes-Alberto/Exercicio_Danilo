@@ -1,0 +1,7 @@
+C:\Users\dioge\source\repos\ExercicioDynamic3107\ExercicioDynamic3107\bin\Debug\ExercicioDynamic3107.exe.config
+C:\Users\dioge\source\repos\ExercicioDynamic3107\ExercicioDynamic3107\bin\Debug\ExercicioDynamic3107.exe
+C:\Users\dioge\source\repos\ExercicioDynamic3107\ExercicioDynamic3107\bin\Debug\ExercicioDynamic3107.pdb
+C:\Users\dioge\source\repos\ExercicioDynamic3107\ExercicioDynamic3107\obj\Debug\ExercicioDynamic3107.csproj.AssemblyReference.cache
+C:\Users\dioge\source\repos\ExercicioDynamic3107\ExercicioDynamic3107\obj\Debug\ExercicioDynamic3107.csproj.CoreCompileInputs.cache
+C:\Users\dioge\source\repos\ExercicioDynamic3107\ExercicioDynamic3107\obj\Debug\ExercicioDynamic3107.exe
+C:\Users\dioge\source\repos\ExercicioDynamic3107\ExercicioDynamic3107\obj\Debug\ExercicioDynamic3107.pdb

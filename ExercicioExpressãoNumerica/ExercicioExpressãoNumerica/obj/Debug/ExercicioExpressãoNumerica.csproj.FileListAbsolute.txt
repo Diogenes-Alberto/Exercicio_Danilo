@@ -1,0 +1,7 @@
+C:\Users\dioge\source\repos\ExercicioExpressãoNumerica\ExercicioExpressãoNumerica\bin\Debug\ExercicioExpressãoNumerica.exe.config
+C:\Users\dioge\source\repos\ExercicioExpressãoNumerica\ExercicioExpressãoNumerica\bin\Debug\ExercicioExpressãoNumerica.exe
+C:\Users\dioge\source\repos\ExercicioExpressãoNumerica\ExercicioExpressãoNumerica\bin\Debug\ExercicioExpressãoNumerica.pdb
+C:\Users\dioge\source\repos\ExercicioExpressãoNumerica\ExercicioExpressãoNumerica\obj\Debug\ExercicioExpressãoNumerica.csproj.AssemblyReference.cache
+C:\Users\dioge\source\repos\ExercicioExpressãoNumerica\ExercicioExpressãoNumerica\obj\Debug\ExercicioExpressãoNumerica.csproj.CoreCompileInputs.cache
+C:\Users\dioge\source\repos\ExercicioExpressãoNumerica\ExercicioExpressãoNumerica\obj\Debug\ExercicioExpressãoNumerica.exe
+C:\Users\dioge\source\repos\ExercicioExpressãoNumerica\ExercicioExpressãoNumerica\obj\Debug\ExercicioExpressãoNumerica.pdb
