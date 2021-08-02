@@ -1,0 +1,7 @@
+C:\Users\dioge\source\repos\ExercicioGama1\ExercicioGama1\bin\Debug\ExercicioGama1.exe.config
+C:\Users\dioge\source\repos\ExercicioGama1\ExercicioGama1\bin\Debug\ExercicioGama1.exe
+C:\Users\dioge\source\repos\ExercicioGama1\ExercicioGama1\bin\Debug\ExercicioGama1.pdb
+C:\Users\dioge\source\repos\ExercicioGama1\ExercicioGama1\obj\Debug\ExercicioGama1.csproj.CoreCompileInputs.cache
+C:\Users\dioge\source\repos\ExercicioGama1\ExercicioGama1\obj\Debug\ExercicioGama1.exe
+C:\Users\dioge\source\repos\ExercicioGama1\ExercicioGama1\obj\Debug\ExercicioGama1.pdb
+C:\Users\dioge\source\repos\ExercicioGama1\ExercicioGama1\obj\Debug\ExercicioGama1.csproj.AssemblyReference.cache
